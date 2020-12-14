@@ -1,7 +1,7 @@
 ## Let's start the journey 😉
 
-You are alone in a jungle with many 🐯 animals and 🐦 birds.
-There is a dark dungeon in frond of you. Owww
+You are alone in a jungle with many 🐯 animals and 🐦 birds.\
+There is a dark dungeon in front of you. Owww
 What you will do?
 
 - [Go into the dungeon](../../0/0.md)
